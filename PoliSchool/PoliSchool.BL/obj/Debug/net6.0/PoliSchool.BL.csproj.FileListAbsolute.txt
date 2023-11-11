@@ -1,0 +1,12 @@
+D:\PjrSchoolSol\SchoolSol\PoliSchool\PoliSchool.BL\bin\Debug\net6.0\PoliSchool.BL.deps.json
+D:\PjrSchoolSol\SchoolSol\PoliSchool\PoliSchool.BL\bin\Debug\net6.0\PoliSchool.BL.dll
+D:\PjrSchoolSol\SchoolSol\PoliSchool\PoliSchool.BL\bin\Debug\net6.0\PoliSchool.BL.pdb
+D:\PjrSchoolSol\SchoolSol\PoliSchool\PoliSchool.BL\obj\Debug\net6.0\PoliSchool.BL.csproj.AssemblyReference.cache
+D:\PjrSchoolSol\SchoolSol\PoliSchool\PoliSchool.BL\obj\Debug\net6.0\PoliSchool.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PjrSchoolSol\SchoolSol\PoliSchool\PoliSchool.BL\obj\Debug\net6.0\PoliSchool.BL.AssemblyInfoInputs.cache
+D:\PjrSchoolSol\SchoolSol\PoliSchool\PoliSchool.BL\obj\Debug\net6.0\PoliSchool.BL.AssemblyInfo.cs
+D:\PjrSchoolSol\SchoolSol\PoliSchool\PoliSchool.BL\obj\Debug\net6.0\PoliSchool.BL.csproj.CoreCompileInputs.cache
+D:\PjrSchoolSol\SchoolSol\PoliSchool\PoliSchool.BL\obj\Debug\net6.0\PoliSchool.BL.dll
+D:\PjrSchoolSol\SchoolSol\PoliSchool\PoliSchool.BL\obj\Debug\net6.0\refint\PoliSchool.BL.dll
+D:\PjrSchoolSol\SchoolSol\PoliSchool\PoliSchool.BL\obj\Debug\net6.0\PoliSchool.BL.pdb
+D:\PjrSchoolSol\SchoolSol\PoliSchool\PoliSchool.BL\obj\Debug\net6.0\ref\PoliSchool.BL.dll
