@@ -1,6 +1,4 @@
-﻿
-
-namespace PoliSchool.DAL.Entities.Base
+﻿namespace PoliSchool.DAL.Core
 {
     public abstract class Person : BaseEntity
     {

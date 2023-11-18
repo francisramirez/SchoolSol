@@ -22,7 +22,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="PoliSchool.DAL.Entities.Student">
-    <Position X="1.75" Y="5.25" Width="1.5" />
+    <Position X="2" Y="5.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Entities\Student.cs</FileName>
